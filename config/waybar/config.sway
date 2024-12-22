@@ -16,7 +16,7 @@
       "temperature",
       "memory",
       "cpu",
-      "pulseaudio",
+      "pipewire",
       "custom/powermenu",
     ],
     "tray": {
